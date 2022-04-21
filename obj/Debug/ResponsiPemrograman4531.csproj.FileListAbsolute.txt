@@ -1,0 +1,6 @@
+C:\Users\Kosen Gaming Gear\Documents\ResponsiPemrograman4531\ResponsiPemrograman4531\obj\Debug\ResponsiPemrograman4531.csprojResolveAssemblyReference.cache
+C:\Users\Kosen Gaming Gear\Documents\ResponsiPemrograman4531\ResponsiPemrograman4531\bin\Debug\ResponsiPemrograman4531.exe.config
+C:\Users\Kosen Gaming Gear\Documents\ResponsiPemrograman4531\ResponsiPemrograman4531\bin\Debug\ResponsiPemrograman4531.exe
+C:\Users\Kosen Gaming Gear\Documents\ResponsiPemrograman4531\ResponsiPemrograman4531\bin\Debug\ResponsiPemrograman4531.pdb
+C:\Users\Kosen Gaming Gear\Documents\ResponsiPemrograman4531\ResponsiPemrograman4531\obj\Debug\ResponsiPemrograman4531.exe
+C:\Users\Kosen Gaming Gear\Documents\ResponsiPemrograman4531\ResponsiPemrograman4531\obj\Debug\ResponsiPemrograman4531.pdb
